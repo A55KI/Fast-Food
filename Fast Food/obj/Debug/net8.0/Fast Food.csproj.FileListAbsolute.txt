@@ -1,0 +1,14 @@
+C:\Users\AS-KI\source\repos\Fast Food\bin\Debug\net8.0\Fast Food.exe
+C:\Users\AS-KI\source\repos\Fast Food\bin\Debug\net8.0\Fast Food.deps.json
+C:\Users\AS-KI\source\repos\Fast Food\bin\Debug\net8.0\Fast Food.runtimeconfig.json
+C:\Users\AS-KI\source\repos\Fast Food\bin\Debug\net8.0\Fast Food.dll
+C:\Users\AS-KI\source\repos\Fast Food\bin\Debug\net8.0\Fast Food.pdb
+C:\Users\AS-KI\source\repos\Fast Food\obj\Debug\net8.0\Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS-KI\source\repos\Fast Food\obj\Debug\net8.0\Fast Food.AssemblyInfoInputs.cache
+C:\Users\AS-KI\source\repos\Fast Food\obj\Debug\net8.0\Fast Food.AssemblyInfo.cs
+C:\Users\AS-KI\source\repos\Fast Food\obj\Debug\net8.0\Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\AS-KI\source\repos\Fast Food\obj\Debug\net8.0\Fast Food.dll
+C:\Users\AS-KI\source\repos\Fast Food\obj\Debug\net8.0\refint\Fast Food.dll
+C:\Users\AS-KI\source\repos\Fast Food\obj\Debug\net8.0\Fast Food.pdb
+C:\Users\AS-KI\source\repos\Fast Food\obj\Debug\net8.0\Fast Food.genruntimeconfig.cache
+C:\Users\AS-KI\source\repos\Fast Food\obj\Debug\net8.0\ref\Fast Food.dll

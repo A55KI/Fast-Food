@@ -1,0 +1,21 @@
+﻿System zamówień w fast foodzie 
+klienci składają zamówienia, zalogowani pracownicy oznaczają zrealizowane zamówienia 
+
+Zadanie 1 - aplikacja konsolowa 
+Uproszczona wersja systemu/wczytywanie i zapisywanie danych do do pliku JSON/bez bazy danych jeszcze
+co najmniej jedna biblioteka DLL z klasami pomocniczymi 
+
+podstawowe elementy:
+menu logowania (dla pracowników) lub panel dla klienta by składać zamówienia
+
+dla klientów:
+przeglądanie oferty na podstawie filtrów (kategorie) lub wyszukanie pozycji ręcznie
+dodanie ilości konkretnego produktu + modyfikacja? 
+aktualizowana suma za obecny stan "koszyka" 
+generowanie "kodu" zamówienia, podsumowanie zamówienia
+
+dla pracowników:
+logowanie się do systemu
+przegląd swojego konta (wyświetlanie danych o ilości zrealizowanych zamówień, zmiana hasła lub danych?)
+przeglądanie dostępnych ofert do realizacji 
+odznaczanie zrealizowanych zamówień 
